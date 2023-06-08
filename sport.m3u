@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="Спорт",Старт HD
 https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
 
+#EXTINF:-1 group-title="Спортивные",МАТЧ! БОЕЦ
+http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
+
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2004.png",Viasat Sport HD
 http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 
@@ -18,6 +21,12 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
 #EXTINF:-1 group-title="Спортивные",МАТЧ! АРЕНА HD
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
+http://94.158.54.107/95/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Диалоги о Рыбалке FHD
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 
 #EXTINF:-1 group-title="Познавательные",Discovery Science HD
 http://93.125.34.51:30002/DiscoveryScience/index.m3u8
