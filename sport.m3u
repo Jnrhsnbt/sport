@@ -1,33 +1,32 @@
 #EXTM3U
-#EXTINF:-1,Viasat Sport
-http://185.32.44.154/viasatsport/index.m3u8
-#EXTINF:-1,Старт
-http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
-#EXTINF:-1,Старт HD
+
+#EXTINF:-1 group-title="Спорт",Старт HD
 https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1,Старт Триумф
-https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
-#EXTINF:-1,Удар
-http://cdn.ottiptv.fun:8880/bal_c2l8u2d4f9l1a3r7e2/UFC/video.m3u8
-#EXTINF:-1,БОКС ТВ
-http://185.32.44.154/bokstv/index.m3u8
-#EXTINF:-1,FightBox
-http://176.74.80.162:8099/FightBox/index.m3u8
-#EXTINF:-1,Extreme Sports
-http://185.32.44.154/extremesport/index.m3u8
-#EXTINF:-1,Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1,Eurosport 1 
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-#EXTINF:-1,Eurosport 2
-http://185.32.44.154/eurosport2/index.m3u8
-#EXTINF:-1,M-1 Global
-https://sc.id-tv.kz:443/M-1_34_35.m3u8
-#EXTINF:-1,Setanta Sports 1 HD
-https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
-#EXTINF:-1,Setanta Sports 2 HD
-https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
-#EXTINF:-1,Viasat Sport
-http://109.197.192.121:8080/viasats/index.m3u8
-#EXTINF:-1,Мужской
-https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2004.png",Viasat Sport HD
+http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png",Спортивный HD
+https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="1764" tvg-shift=1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-0
+
+#EXTINF:-1 group-title="Основные",Матч! HD
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спортивные",МАТЧ! АРЕНА HD
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Discovery Science HD
+http://93.125.34.51:30002/DiscoveryScience/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://91.233.215.250:7272/CBcyJCMYxKWHlWD
+
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Viasat Explore
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
