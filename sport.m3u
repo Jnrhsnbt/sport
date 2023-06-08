@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Спорт",Старт HD
+#EXTINF:-1,Старт HD
 https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="Спортивные",МАТЧ! БОЕЦ
+#EXTINF:-1,МАТЧ! БОЕЦ
 http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
 
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2004.png",Viasat Sport HD
@@ -16,26 +16,26 @@ https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-0
 
-#EXTINF:-1 group-title="Основные",Матч! HD
+#EXTINF:-1,Матч! HD
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Спортивные",МАТЧ! АРЕНА HD
+#EXTINF:-1,МАТЧ! АРЕНА HD
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
+#EXTINF:-1,Setanta Sports 2 HD
 http://94.158.54.107/95/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Познавательные",Диалоги о Рыбалке FHD
+#EXTINF:-1,Диалоги о Рыбалке FHD
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 
-#EXTINF:-1 group-title="Познавательные",Discovery Science HD
+#EXTINF:-1,Discovery Science HD
 http://93.125.34.51:30002/DiscoveryScience/index.m3u8
 
-#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+#EXTINF:-1,Nat Geo Wild HD
 http://91.233.215.250:7272/CBcyJCMYxKWHlWD
 
-#EXTINF:-1 group-title="Познавательные",National Geographic
+#EXTINF:-1,National Geographic
 http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Познавательные",Viasat Explore
+#EXTINF:-1,Viasat Explore
 https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
